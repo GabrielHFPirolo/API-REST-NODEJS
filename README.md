@@ -19,3 +19,12 @@ Este é um projeto básico de API REST para gerenciamento de usuários, implemen
 - Express  
 - MongoDB Atlas  
 - Mongoose  
+
+## Configuração e execução
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/GabrielHFPirolo/API-REST-NODEJS.git
+cd Projeto Node
+```
